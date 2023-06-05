@@ -1,6 +1,6 @@
 # korlark/haproxy
 
-HAProxy with CURL on ALpine
+HAProxy with CURL on Alpine
 
 ## Dependencies
 
